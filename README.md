@@ -2,7 +2,8 @@
 
 ## Run it on windows
 - clone the repository
-- in the cmd type: `javac -d bin hangman_solver/*.java`
+- eventually you have to create a folder bin on the same level as your cloned repo is
+- in the cmd type: `javac -d ./bin ./hangman_solver/*.java`
 - then type: `java -cp bin hangman_solver.MainClass`
 
 ## Manual
