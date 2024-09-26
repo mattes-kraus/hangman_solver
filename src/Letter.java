@@ -1,4 +1,4 @@
-package hangman_solver;
+package hangman_solver.src;
 
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;

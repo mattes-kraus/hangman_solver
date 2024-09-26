@@ -1,4 +1,4 @@
-package hangman_solver;
+package hangman_solver.src;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -71,7 +71,7 @@ public class Utilities {
 		// main game scene	
 				/*** Initialize ***/
 				LetterGuesser guesser = new LetterGuesser(
-						"./hangmanGuesser/openthesaurus.txt", wordlength);
+						"./hangman_solver/res/openthesaurus.txt", wordlength);
 				
 				// configure Pane where letters will be
 				FlowPane flow = new FlowPane();

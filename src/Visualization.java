@@ -1,4 +1,4 @@
-package hangman_solver;
+package hangman_solver.src;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

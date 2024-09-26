@@ -1,4 +1,4 @@
-package hangman_solver;
+package hangman_solver.src;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

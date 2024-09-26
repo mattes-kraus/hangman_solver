@@ -1,5 +1,6 @@
 package hangman_solver;
 
+import hangman_solver.src.Visualization;
 import javafx.application.Application;
 
 /**
