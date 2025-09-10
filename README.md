@@ -1,4 +1,6 @@
 # hangman_solver
+## Idea
+Everybody knows the game [hangman](https://de.wikipedia.org/wiki/Galgenm%C3%A4nnchen) (=Galgenmänchen). Given the length of a word the user is thinking of, this solver proposes the best letter-guess.
 
 ## Run it on windows
 - clone the repository
